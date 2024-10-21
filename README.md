@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @NiveditaBiswas 1st year Student of ITM Skills University.
 
-- 👀 I’m interested in (B.Tech CSE)Bechalor of Technology in Computer Science Engineering.
+- 👀 I’m interested in (B.Tech CSE)Bachelor of Technology in Computer Science Engineering.
 
 - 🌱 I’m currently learning Python.
 
