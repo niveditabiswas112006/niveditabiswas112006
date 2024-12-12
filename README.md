@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I’m @NiveditaBiswas 1st year Student of ITM Skills University.<br><br>👀 I’m interested in (B.Tech CSE)Bachelor of Technology in Computer Science Engineering.<br><br>🌱 I’m currently learning Python.<br><br>-Fun Fact🎨is my Leisure to enjoy doing painting(artistic work).<br><br>-skills🧐 to organized with detail oriented skills and collecting information, possess strong analytical, problem-solving skills. I'm eager to learn new skills and work deligently to exceed any expectations which make me remind to😎 WorkHard.<br><br>ThankYou😊 To ITM Group of Institute....<br><br>
+👋 Hello, I’m @NiveditaBiswas 1st year Student of ITM Skills University.<br><br>👀 I’m interested in (B.Tech CSE)Bachelor of Technology in Computer Science Engineering.<br><br>🌱 I’m currently learning Python.<br><br>-Fun Fact🎨is my Leisure to enjoy doing painting(artistic work).<br><br>-skills🧐 to organized with detail oriented skills and collecting information, possess strong analytical, problem-solving skills. I'm eager to learn new skills and work deligently to exceed any expectations which make me remind to😎 WorkHard.<br><br>ThankYou
 
 
 ## 🌐 Socials:
@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++}
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niveditabiswas112006&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niveditabiswas112006&theme=gruvbox_light&hide_border=false)<br/>
