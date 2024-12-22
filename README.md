@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I’m @NiveditaBiswas 1st year Student of ITM Skills University.<br><br>👀 I’m interested in (B.Tech CSE)Bachelor of Technology in Computer Science Engineering.<br><br>🌱 I’m currently learning Python.<br><br>-Fun Fact🎨is my Leisure to enjoy doing painting(artistic work).<br><br>-skills🧐 to organized with detail oriented skills and collecting information, possess strong analytical, problem-solving skills. I'm eager to learn new skills and work deligently to exceed any expectations which make me remind to😎 WorkHard.<br><br>ThankYou
+👋 Hello, I’m @NiveditaBiswas Student of ITM Skills University.<br><br>👀 I’m interested in (B.Tech CSE)Bachelor of Technology in Computer Science Engineering.<br><br>🌱 I’m currently learning Python.<br><br>-Fun Fact🎨is my Leisure to enjoy doing painting(artistic work).<br><br>-skills🧐 to organized with detail oriented skills and collecting information, possess strong analytical, problem-solving skills. I'm eager to learn new skills and work deligently to exceed any expectations which make me remind to😎 WorkHard.<br><br>ThankYou
 
 
 ## 🌐 Socials:
