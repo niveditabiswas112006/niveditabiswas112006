@@ -48,10 +48,6 @@
 ---
 
 ### 🔗 Check Out My Projects:
-- 🌟 **[Meal Planner App](https://github.com/niveditabiswas112006/meal-planner)**: Personalized meal suggestions with video conferencing features.  
-- 🎨 **[Art Portfolio](https://github.com/niveditabiswas112006/art-portfolio)**: A website showcasing my vibrant artworks.
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
